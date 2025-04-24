@@ -9,7 +9,7 @@ This is the evaluation of the technique from our paper <a href="???">"Satisfiabi
 
 # Downloading SwInE
 
-[Here](https://github.com/ffrohn/swine/releases/tag/v0.1.0) you can find the release of SwInE that was used for our evaluation.
+[Here](https://github.com/ffrohn/swine/releases/tag/???) you can find the release of SwInE that was used for our evaluation.
 
 # Input Format
 
