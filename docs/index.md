@@ -27,7 +27,7 @@ Moreover, you can download [our leading example](leading.smt2), [Example 14](ex1
 
 # Detailed Results
 
-We provide a table with detailed results of our evaluation on the LoAT problems.
+We provide tables with detailed results of our evaluation on the LoAT problems.
 <ul>
 <li><a href="CHC_Comp_22_LIA_Lin.html">CHC Comp '22 Problems</a></li>
 <li><a href="CHC_Comp_23_LIA_Lin.html">CHC Comp '23 Problems</a></li>
