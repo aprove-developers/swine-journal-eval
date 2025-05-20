@@ -27,5 +27,10 @@ Moreover, you can download [our leading example](leading.smt2), [Example 14](ex1
 
 # Detailed Results
 
-<a href="results.html">Here</a>, we provide a table with detailed results of our evaluation on the LoAT problems.
-For instances that could only be solved by a single configuration of SwInE, the corresponding result is highlighted in yellow.
+We provide a table with detailed results of our evaluation on the LoAT problems.
+<ul>
+<li><a href="CHC_Comp_22_LIA_Lin.html">CHC Comp '22 Problems</a></li>
+<li><a href="CHC_Comp_23_LIA_Lin.html">CHC Comp '23 Problems</a></li>
+<li><a href="TPDB_ITS_Complexity.html">Complexity Problems</a></li>
+<li><a href="TPDB_ITS_Termination.html">Termination Problems</a></li>
+</ul>
