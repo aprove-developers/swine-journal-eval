@@ -9,7 +9,7 @@ This is the evaluation of the technique from our paper <a href="???">"Satisfiabi
 
 # Downloading SwInE
 
-[Here](https://github.com/ffrohn/swine/releases/tag/???) you can find the release of SwInE that was used for our evaluation.
+[Here](https://github.com/ffrohn/swine-z3/releases/tag/v0.1.2) you can find the release of SwInE that was used for our evaluation.
 
 # Input Format
 
@@ -22,7 +22,7 @@ Please execute `swine --help` for detailed information on using SwInE.
 
 # Benchmarks
 
-You can find the benchmarks from our evaluation [here](https://github.com/ffrohn/QF_EIA/tree/v0.2.0).
+You can find the benchmarks from our evaluation [here](https://github.com/ffrohn/QF_EIA/tree/v0.3.0).
 Moreover, you can download [our leading example](leading.smt2), [Example 14](ex14.smt2), and [Example 25](ex25.smt2) from our paper.
 
 # Detailed Results
