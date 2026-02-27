@@ -5,7 +5,7 @@
     </style>
 </head>
 
-This is the evaluation of the technique from our paper <a href="???">"Satisfiability Modulo Exponential Integer Arithmetic"</a>, which is implemented in our SMT solver SwInE (**S**MT **w**ith **In**teger **E**xponentiation). For more information abot SwInE, we refer to its [website](https://ffrohn.github.io/swine/).
+This is the evaluation of the technique from our paper <a href="paper.pdf">"Satisfiability Modulo Exponential Integer Arithmetic"</a>, which is implemented in our SMT solver SwInE (**S**MT **w**ith **In**teger **E**xponentiation). For more information abot SwInE, we refer to its [website](https://ffrohn.github.io/swine/).
 
 # Downloading SwInE
 
