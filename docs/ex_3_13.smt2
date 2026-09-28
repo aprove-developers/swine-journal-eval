@@ -2,11 +2,9 @@
 (set-option :produce-models true)
 (declare-fun x () Int)
 (declare-fun y () Int)
-(declare-fun z () Int)
 
-(assert (< 1 x y))
-(assert (> z 0))
-(assert (< (exp x z) (exp y z)))
+(assert (> y 0))
+(assert (= (exp 2 x) (exp 3 y)))
 
 (check-sat)
 (get-model)

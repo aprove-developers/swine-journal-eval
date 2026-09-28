@@ -3,8 +3,9 @@
 (declare-fun x () Int)
 (declare-fun y () Int)
 
-(assert (distinct y 0))
-(assert (= (exp 2 x) (exp 3 y)))
+(assert (= x 3))
+(assert (= y 9))
+(assert (distinct (exp x y) 19683))
 
 (check-sat)
 (get-model)
