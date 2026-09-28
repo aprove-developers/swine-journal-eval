@@ -30,5 +30,5 @@ Moreover, you can download [our leading example](leading.smt2), [Example 3.13](e
 
 # Detailed Results
 
-We provide a <a href="results.html">table</table> with detailed results of our evaluation on the LoAT problems.
+We provide a [table](results.html) with detailed results of our evaluation on the LoAT problems.
 
