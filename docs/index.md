@@ -17,7 +17,7 @@ SwInE supports an extension of the [SMT-LIB-format](https://smtlib.cs.uiowa.edu/
 The semantics of `exp(s,t) = s`<sup>`t`</sup> if `s`<sup>`t`</sup> is an integer, and `exp(s,t) = 0`, otherwise.
 
 Recently, the SMT-LIB standard has been extended with the function symbol `**`, which is equivalent to `exp`.
-In future versions, we will also support the newly standardized syntax.
+[The latest release of SwInE](https://github.com/ffrohn/swine-z3/releases/tag/v0.2.1) supports the newly standardized syntax instead of `exp`.
 
 # Using SwInE
 
